@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dineshkpraj
 - 👀 I’m interested in android application
 - 🌱 I’m currently learning android development
+- I am working on the AI powered chatbots using neural network.
 - 💞️ I’m looking to collaborate on application projects 
 - 📫 How to reach me dkprajapati737602@gmail.com 
 
